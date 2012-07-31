@@ -1,7 +1,6 @@
 {
-    "name": "My Preso",
+    "name": "Testing Infrastructure Code or not?",
     "sections": [
-        {"section":"intro"},
-        {"section":"tdd"}
+        {"section": "slides"}
     ]
 }

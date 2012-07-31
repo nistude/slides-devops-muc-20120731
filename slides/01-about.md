@@ -19,5 +19,5 @@
 
 * developer at gutefrage.net for ~1 year
 * Ruby on Rails
-* Chef
 * Operations
+* Chef
